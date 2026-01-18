@@ -27,6 +27,7 @@ This repository serves as a **learning playground** and a **portfolio of hands-o
 * **Simple Calculator** – Performs basic arithmetic operations
 * **Robo Voice** – Text-to-speech automation using Python
 * **Auction System** – Simulated auction bidding system
+* **Mail Merger** – Automatically generates personalized letters by merging names into a template
 
 ---
 
